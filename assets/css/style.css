@@ -1,0 +1,23 @@
+.jumbotron{
+    text-align: center;
+    background-color: lightblue;
+    font-family: cursive;
+}
+#form{
+    float: right;
+}
+
+img {
+	width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.imageholder{
+    float:left;
+}
+
+#input, #submitbtn{
+    background-color: lightblue;
+    margin: 5px;
+}
